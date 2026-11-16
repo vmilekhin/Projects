@@ -21,6 +21,7 @@
 - [db-module7-couchdb](https://github.com/vmilekhin/db-module7-couchdb) — Модуль 7: Документоориентированные БД (Apache CouchDB, HTTP API, Mango-запросы).
 - [ml-module5-redis](https://github.com/vmilekhin/ml-module5-redis) — Модуль 5: Redis (кэширование инференса и Rate Limiting).
 - [ml-module6-vector-db](https://github.com/vmilekhin/ml-module6-vector-db) — Модуль 6: Векторные БД (сравнение Qdrant и PostgreSQL/pgvector).
+- [db-module8-backup](https://github.com/vmilekhin/db-module8-backup) — Модуль 8: Резервное копирование, восстановление и PITR (PostgreSQL 18).
 
 ⚙️ Углубленное программирование на С++
 Умею применять RAII, smart pointers, move semantics, анализировать производительность и проектировать многопоточные системы.
