@@ -16,7 +16,7 @@
 - [db-module7-couchdb](https://github.com/vmilekhin/db-module7-couchdb) — Модуль 7: Документоориентированные БД (Apache CouchDB, HTTP API, Mango-запросы).
 - [db-module8-backup](https://github.com/vmilekhin/db-module8-backup) — Модуль 8: Резервное копирование, восстановление и PITR (PostgreSQL 18).
 
-⚙️ Углубленное программирование на С++
+⚙️ Углубленное программирование на С++ (сдано)
 - [sader](https://github.com/vmilekhin/sader) — Модули 1-2: Учебный C++ проект (RAII, Worker/Executor, ProcessWorker).
 - [cpp-module3-move-semantics](https://github.com/vmilekhin/cpp-module3-move-semantics) — Модуль 3: Семантика копирования и перемещения (Rule of Five).
 - [cpp-module4-templates-stl](https://github.com/vmilekhin/cpp-module4-templates-stl) — Модуль 4: Шаблоны, Concepts, STL и Ranges (C++20).
