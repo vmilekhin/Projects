@@ -26,7 +26,7 @@
 - [cpp-module6-multithreading](https://github.com/vmilekhin/cpp-module6-multithreading) — Модуль 6: Многопоточность (Data Race, Mutex, Atomic, ThreadPool).
 - [cpp-python-module](https://github.com/vmilekhin/cpp-python-module) — Модуль 7: Производительность C++ и интеграция с Python через pybind11.
 - [sader_math_demo](https://github.com/vmilekhin/sader_math_demo) — Модуль 8: Интеграция C++ и Python через pybind11 (оптимизация SIMD, бенчмарки).
-- 
+  
 🏠 Личное
 - [jarvis](https://github.com/vmilekhin/jarvis) — Локальный голосовой ассистент (Ollama + Whisper + Silero).
 - [fin-strategy](https://github.com/vmilekhin/fin-strategy) — Личный проект по финансовым стратегиям.
