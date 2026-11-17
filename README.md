@@ -1,3 +1,6 @@
+🔐 Системное программирование и кибербезопасность
+- [streamlit-vulns](https://github.com/vmilekhin/streamlit-vulns) — Анализ уязвимостей Streamlit (NVD, OSV, EPSS, STIX), вариант 17.
+
 🐍 Промышленное программирование на Python
 - [ml-module3-hw](https://github.com/vmilekhin/ml-module3-hw) — Модуль 2: Первая ML-модель (ResNet18 для 5 пород собак).
 - [pytorch-dogs](https://github.com/vmilekhin/pytorch-dogs) — Модуль 2: Учебный проект по PyTorch (ResNet18).
@@ -28,7 +31,7 @@
 - [jarvis](https://github.com/vmilekhin/jarvis) — Локальный голосовой ассистент (Ollama + Whisper + Silero).
 - [fin-strategy](https://github.com/vmilekhin/fin-strategy) — Личный проект по финансовым стратегиям.
 - [fin_news_ai](https://github.com/vmilekhin/fin_news_ai) — LLM-система анализа финансовых новостей (RSS, SQLite, Ollama).
-- [drive2-assistant](https://github.com/vmilekhin/drive2-assistant) — RAG-ассистент на ChromaDB + Ollama.
+- [drive2-assistant](https://github.com/vmilekhin/drive2-assistant) — Драйв-2 ассистент. RAG-ассистент на ChromaDB + Ollama.
 - [vpn-hub](https://github.com/vmilekhin/vpn-hub) — Личный VPN-хаб с разделением трафика.
 - [karkusha-crm](https://github.com/vmilekhin/karkusha-crm) — CRM для логопедического центра.
-- [balloons-shop](https://github.com/vmilekhin/balloons-shop) — Пет-проект.
+- [balloons-shop](https://github.com/vmilekhin/balloons-shop) — CRM для воздушных шаров.
