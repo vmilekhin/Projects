@@ -14,10 +14,11 @@
 - [ml-topic1-timeseries](https://github.com/vmilekhin/ml-topic1-timeseries) — Анализ временных рядов USD/RUB (ARIMA, negative result).
 
 🗄️ Базы данных: хранение и передача информации
-- [ml-module5-redis](https://github.com/vmilekhin/ml-module5-redis) — Модуль 5: Redis (кэширование инференса и Rate Limiting).
-- [ml-module6-vector-db](https://github.com/vmilekhin/ml-module6-vector-db) — Модуль 6: Векторные БД (сравнение Qdrant и PostgreSQL/pgvector).
-- [db-module7-couchdb](https://github.com/vmilekhin/db-module7-couchdb) — Модуль 7: Документоориентированные БД (Apache CouchDB, HTTP API, Mango-запросы).
-- [db-module8-backup](https://github.com/vmilekhin/db-module8-backup) — Модуль 8: Резервное копирование, восстановление и PITR (PostgreSQL 18).
+- [ml-module5-redis](https://github.com/vmilekhin/ml-module5-redis) — Модуль 5. Redis (кэширование инференса и Rate Limiting).
+- [ml-module6-vector-db](https://github.com/vmilekhin/ml-module6-vector-db) — Модуль 6. Векторные БД (сравнение Qdrant и PostgreSQL/pgvector).
+- [db-module7-couchdb](https://github.com/vmilekhin/db-module7-couchdb) — Модуль 7. Документоориентированные БД (Apache CouchDB, HTTP API, Mango-запросы).
+- [db-module8-backup](https://github.com/vmilekhin/db-module8-backup) — Модуль 8. Резервное копирование, восстановление и PITR (PostgreSQL 18).
+- [db-module9-security] (https://github.com/vmilekhin/db-module9-security.git) - Модуль 9. Безопасность баз данных (PostgreSQL 18)
 
 ⚙️ Углубленное программирование на С++ (сдано)
 - [sader](https://github.com/vmilekhin/sader) — Модули 1-2: Учебный C++ проект (RAII, Worker/Executor, ProcessWorker).
