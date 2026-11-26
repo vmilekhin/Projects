@@ -9,7 +9,7 @@
 - [ml-module6-nlp-lstm](https://github.com/vmilekhin/ml-module6-nlp-lstm) - Модуль 6: NLP и извлечение эмбеддингов через LSTM.
 - [ml-quality-module7] (https://github.com/vmilekhin/ml-quality-module7.git) - Модуль 7: Качество и сопровождение кода. 
 - [ml-api-module8](https://github.com/vmilekhin/ml-api-module8) - Модуль 8: Создание ML API и сервисов (FastAPI, Pydantic, PyTorch, Batch-запросы).
-- [ml-quality-module9] (https://github.com/vmilekhin/ml-quality-module9.git) - Модуль 9: Безопасность AI/ML-систем.
+- [ml-security-module9](https://github.com/vmilekhin/ml-security-module9) — Модуль 9: Безопасность AI/ML (Data Poisoning, FGSM, Inversion, Membership Inference).
 - [stock_prediction](https://github.com/vmilekhin/stock_prediction) - Курсовая работа: Предсказание курса акций (PostgreSQL + ARIMA + Streamlit).
 
 🎓 Адаптационный курс по машинному обучению и математике
