@@ -2,13 +2,15 @@
 - [streamlit-vulns](https://github.com/vmilekhin/streamlit-vulns) — Анализ уязвимостей Streamlit (NVD, OSV, EPSS, STIX), вариант 17.
 
 🐍 Промышленное программирование на Python
-- [ml-module3-hw](https://github.com/vmilekhin/ml-module3-hw) — Модуль 2: Первая ML-модель (ResNet18 для 5 пород собак).
-- [pytorch-dogs](https://github.com/vmilekhin/pytorch-dogs) — Модуль 2: Учебный проект по PyTorch (ResNet18).
-- [ml-module4-forecast](https://github.com/vmilekhin/ml-module4-forecast) — Модуль 4: Инженерный эксперимент (MLP vs LSTM на данных AAPL).
-- [ml-module5-debug](https://github.com/vmilekhin/ml-module5-debug) — Модуль 5: Отладка и диагностика ML (pdb, TensorBoard).
-- [ml-module6-nlp-lstm](https://github.com/vmilekhin/ml-module6-nlp-lstm) — Модуль 6: NLP и извлечение эмбеддингов через LSTM.
-- [ml-api-module8](https://github.com/vmilekhin/ml-api-module8) — Модуль 8: Создание ML API и сервисов (FastAPI, Pydantic, PyTorch, Batch-запросы).
-- [stock_prediction](https://github.com/vmilekhin/stock_prediction) — Курсовая работа: Предсказание курса акций (PostgreSQL + ARIMA + Streamlit).
+- [ml-module3-hw](https://github.com/vmilekhin/ml-module3-hw) - Модуль 2: Первая ML-модель (ResNet18 для 5 пород собак).
+- [pytorch-dogs](https://github.com/vmilekhin/pytorch-dogs) - Модуль 2: Учебный проект по PyTorch (ResNet18).
+- [ml-module4-forecast](https://github.com/vmilekhin/ml-module4-forecast) - Модуль 4: Инженерный эксперимент (MLP vs LSTM на данных AAPL).
+- [ml-module5-debug](https://github.com/vmilekhin/ml-module5-debug) - Модуль 5: Отладка и диагностика ML (pdb, TensorBoard).
+- [ml-module6-nlp-lstm](https://github.com/vmilekhin/ml-module6-nlp-lstm) - Модуль 6: NLP и извлечение эмбеддингов через LSTM.
+- [ml-quality-module7] (https://github.com/vmilekhin/ml-quality-module7.git) - Модуль 7: Качество и сопровождение кода. 
+- [ml-api-module8](https://github.com/vmilekhin/ml-api-module8) - Модуль 8: Создание ML API и сервисов (FastAPI, Pydantic, PyTorch, Batch-запросы).
+- [ml-quality-module9] (https://github.com/vmilekhin/ml-quality-module9.git) - Модуль 9: Безопасность AI/ML-систем.
+- [stock_prediction](https://github.com/vmilekhin/stock_prediction) - Курсовая работа: Предсказание курса акций (PostgreSQL + ARIMA + Streamlit).
 
 🎓 Адаптационный курс по машинному обучению и математике
 - [ml-topic1-timeseries](https://github.com/vmilekhin/ml-topic1-timeseries) — Анализ временных рядов USD/RUB (ARIMA, negative result).
